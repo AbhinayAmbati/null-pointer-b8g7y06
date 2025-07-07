@@ -4,7 +4,7 @@
 
 ## About Me
 
-hey internet void. it's 3:33 AM again and i'm here, caffeinated and contemplating the universe through IntelliJ's dark theme. born in 2006, raised on minecraft mods and stack overflow anxiety. i used to think i understood java back when i was fifteen and the world made sense. now i'm eighteen and everything is on fire but at least my code has better variable names.
+hey internet void. it's 3:33 AM again and i'm here, caffeinated and contemplating the universe through IntelliJ's dark theme. I am raised on minecraft mods and stack overflow anxiety. i used to think i understood java back when i was seventeen and the world made sense. now i'm nineteen and everything is on fire but at least my code has better variable names.
 
 this repository exists somewhere between a digital diary and a desperate attempt to remember why i fell in love with programming in the first place. it's giving "i peaked in high school computer science" energy but with more existential dread and better playlist curation. 
 
@@ -25,19 +25,19 @@ currently oscillating between "i am the main character of my own coding journey"
 
 ## Why Now?
 
-picture this: it's december 2024, taylor swift is on repeat, and i'm realizing that my java knowledge has the same energy as my 2020 sourdough starter - abandoned, forgotten, but somehow still alive in the depths of my memory. 
+picture this: it's july 2025, spotify is on repeat, and i'm realizing that my java knowledge has the same energy as my 2023 sourdough starter - abandoned, forgotten, but somehow still alive in the depths of my memory. 
 
-i spent three years thinking i was too cool for java, chasing the aesthetic of python and the validation of javascript frameworks. but there's something beautifully masochistic about returning to your first programming language like it's your hometown - everything looks smaller than you remembered, but the muscle memory hits different.
+i spent three years thinking i was too cool for java, chasing the aesthetic of full stack and the validation of javascript frameworks. but there's something beautifully masochistic about returning to your first programming language like it's your hometown - everything looks smaller than you remembered, but the muscle memory hits different.
 
-also, my computer science professor assigned a project in java and i panicked because i couldn't remember how to make a simple class without googling it. the audacity of my past self thinking i had "mastered" java at sixteen. the hubris. the absolute main character energy.
+also, my computer science professor assigned a project in java and i panicked because i couldn't remember how to make a simple class without googling it. the audacity of my past self thinking i had "mastered" java at seventeen. the hubris. the absolute main character energy.
 
-so here we are. me, my IDE, and the crushing weight of imposter syndrome, ready to debug both my code and my life choices. it's giving "academic comeback story" meets "quarter-life crisis at eighteen" meets "maybe i should have stuck with java all along."
+so here we are. me, my IDE, and the crushing weight of imposter syndrome, ready to debug both my code and my life choices. it's giving "academic comeback story" meets "quarter-life crisis at nineteen" meets "maybe i should have stuck with java all along."
 
 ## Current Vibe Check
 
 🌙 **Mood**: melancholic but determined  
 ☕ **Caffeine Level**: concerning  
-🎵 **Current Playlist**: lofi hip hop beats to debug/cry to  
+🎵 **Current Playlist**: null-pointer-exception  
 🔥 **Motivation**: flickering like my laptop screen at 4 AM  
 
 ---
@@ -46,4 +46,4 @@ so here we are. me, my IDE, and the crushing weight of imposter syndrome, ready 
 
 **~ a prayer for all the developers who code in the dark, debug in the light, and dream in syntax errors ~**
 
-*fin.*
+*Abhinay*
