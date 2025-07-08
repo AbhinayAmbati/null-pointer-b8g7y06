@@ -6,6 +6,14 @@
 
 public class HelloWorld /*defines a class name hello world , in java every program must be inside a class*/ 
 {
+
+    /*
+       public - is a access modifier , this method is visible to everyone including the JVM.
+       static - belongs to the class. No need to create an object call the method. JVM can call it directly.
+       void - it is a return type. As the method does not return anything we use void.
+       main - method name, special name recognised by the JVM as the starting point of your program.
+       String[] args - Parameters. an array of string that can hold commandline arguments. You can pass values when running the program. 
+    */
     
     public static void main(String[] args) /*it is the entry point of any java application, 
     it tells the JVM where to start executing of the program.  */
