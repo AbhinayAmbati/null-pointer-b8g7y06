@@ -1,5 +1,4 @@
 
-import java.util.Scanner;
 import java.util.Stack;
 
 public class Stack1 {
@@ -9,16 +8,13 @@ public class Stack1 {
 
         System.out.println(stack);
 
-        Scanner s = new Scanner(System.in);
-
-        for(int i=0;i<5;i++){
-            stack.add(s.next());
-        }
+        stack.add("Long");
 
         System.out.println(stack);
-        
-        stack.pop();
 
-        System.out.println(stack.peek());
+        
+        stack.add(2, "Hi");
+
+        System.out.println(stack.size());
     }    
 }
