@@ -1,4 +1,5 @@
 
+import java.util.Iterator;
 import java.util.PriorityQueue;
 
 public class PriorityQueue1
@@ -30,6 +31,12 @@ public class PriorityQueue1
         System.out.println(pqueue1.remove());
 
         System.out.println(pqueue1);
+
+        Iterator value = pqueue1.iterator();
+
+        while(value.hasNext()){
+            System.out.println(value.next());
+        }
 
     }
     
