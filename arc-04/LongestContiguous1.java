@@ -8,7 +8,7 @@ public class LongestContiguous1 {
         int n = s.nextInt();
         int[] arr = new int[n];
 
-        int max = 0, count=0;
+        int max = 0, count=0; 
 
         for(int i=0;i < n;i++)
         {
