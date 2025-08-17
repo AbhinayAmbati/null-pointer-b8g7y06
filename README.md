@@ -2,7 +2,7 @@
 
 > *"every semicolon is a prayer to the compiler gods; every null pointer exception is a mirror reflecting the void where my motivation used to live"*
 
-## About Me
+## About Me 
 
 hey internet void. it's 3:33 AM again and i'm here, caffeinated and contemplating the universe through IntelliJ's dark theme. I am raised on minecraft mods and stack overflow anxiety. i used to think i understood java back when i was seventeen and the world made sense. now i'm nineteen and everything is on fire but at least my code has better variable names.
 
